@@ -4,7 +4,7 @@
 
     This Project shows how to provide styling in android and refer the resources and provide a common styling for views accross the application
 
-![StylingAndroid](https://github.com/devrath/StylingAndroid/blob/master/snapshot_one.gif)![StylingAndroid](https://github.com/devrath/StylingAndroid/blob/master/snapshot_two.gif)
+![StylingAndroid](https://github.com/devrath/StylingAndroid/blob/master/snapshot_one.png)![StylingAndroid](https://github.com/devrath/StylingAndroid/blob/master/snapshot_two.png)
 
 
 
