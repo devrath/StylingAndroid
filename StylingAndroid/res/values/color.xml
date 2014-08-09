@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="deeppink">#FF1493</color>
+    <color name="midnightblue">#191970</color>
+    <color name="white">#FFFFFF</color>
+    <color name="tomato">#FF6347</color>
+    <color name="darkslategray">#2F4F4F</color>
+    <color name="seagreen">#2E8B57</color>
+
+</resources>
